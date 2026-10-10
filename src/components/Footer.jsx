@@ -8,8 +8,8 @@ export default function Footer() {
         <div className="footer-content-banner">
           <div className="hero-container">
             <div className="footer-content-container">
-              <div className="image-container">
-                <img alt="Kalai's Beauty Salon & Spa" src="/assets/images/Fabuluxlogowhite.png" />
+              <div className="image-container footer-logo-container" style={{ maxWidth: "380px", width: "100%", margin: "0 auto", display: "flex", justifyContent: "center" }}>
+                <img alt="Kalai's Beauty Salon & Spa" src="/assets/images/kalai-logo-white.png" className="img-fluid" style={{ maxHeight: "110px", width: "auto", maxWidth: "100%", height: "auto", display: "block", objectFit: "contain" }} />
               </div>
               {" "}
               <p className="footer-description">
@@ -57,7 +57,7 @@ export default function Footer() {
         <div className="hero-container">
           <div className="footer-copyright-container">
             <span className="copyright-text">
-              Copyright © 2025. Kalai's Beauty Salon &amp; Spa. All rights reserved
+              Copyright © 2026. Kalai's Beauty Salon &amp; Spa. All rights reserved
             </span>
             {" "}
             <div className="legalink-container">

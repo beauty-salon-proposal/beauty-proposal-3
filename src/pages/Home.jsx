@@ -25,7 +25,7 @@ export default function Home() {
           </h1>
           {" "}
           <p className="accent-color home-content-description animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Experience professional bridal makeup, bespoke hair styling, and rejuvenating skincare treatments tailored for your special moments in Coimbatore.
           </p>
           {" "}
           <div className="d-flex flex-column flex-md-row align-items-start align-items-md-center gspace-3 animate-box animated animate__animated" data-animate="animate__fadeInUp">
@@ -67,7 +67,7 @@ export default function Home() {
             </h2>
             {" "}
             <p className="about-intro__content-description animate-box animated animate__animated" data-animate="animate__fadeInUp">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              At Kalai's Beauty Salon &amp; Spa, we bring out your natural elegance with meticulous care, modern techniques, and personalized styling for every occasion.
             </p>
             {" "}
             <div className="animate-box animated animate__animated" data-animate="animate__fadeInUp">
@@ -88,7 +88,7 @@ export default function Home() {
               </h3>
               {" "}
               <p className="accent-color">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                Celebrating your individuality and inner radiance with customized hair, beauty, and bridal artistry.
               </p>
             </div>
           </div>
@@ -109,7 +109,7 @@ export default function Home() {
       <div className="d-flex flex-column text-center align-items-center gspace-2">
         <div className="sub-heading-double sub-heading-w-20 justify-content-center animate-box animated animate__animated" data-animate="animate__fadeIn">
           <h6 className="sub-heading-text">
-            Get Beautifull With Us
+            Get Beautiful With Us
           </h6>
         </div>
         {" "}
@@ -118,16 +118,16 @@ export default function Home() {
         </h2>
         {" "}
         <p className="animate-box animated animate__animated" data-animate="animate__fadeInDown">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+          Explore our wide range of professional beauty services crafted to enhance your glow and elevate your confidence.
         </p>
         {" "}
         <div className="service-content-container">
           <div className="service-container service-container--cinematic-makeup animate-box animated-delay-fast animate__animated" data-animate="animate__fadeInUp">
             <div className="service-content-spacer" />
             {" "}
-            <a className="card service-description-card" href="#">
+            <a className="card service-description-card" href="services.html">
               <h6 className="service-subtitle">
-                Disc 15%
+                15% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -139,9 +139,9 @@ export default function Home() {
           <div className="service-container service-container--fashion-makeup animate-box animated animate__animated" data-animate="animate__fadeInUp">
             <div className="service-content-spacer" />
             {" "}
-            <a className="card service-description-card" href="#">
+            <a className="card service-description-card" href="services.html">
               <h6 className="service-subtitle">
-                Disc 10%
+                10% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -153,9 +153,9 @@ export default function Home() {
           <div className="service-container service-container--bridal-makeup animate-box animated-delay-slow animate__animated" data-animate="animate__fadeInUp">
             <div className="service-content-spacer" />
             {" "}
-            <a className="card service-description-card" href="#">
+            <a className="card service-description-card" href="services.html">
               <h6 className="service-subtitle">
-                Disc 20%
+                20% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -167,9 +167,9 @@ export default function Home() {
           <div className="service-container service-container--hair-style animate-box animated animate__animated" data-animate="animate__fadeInUp">
             <div className="service-content-spacer" />
             {" "}
-            <a className="card service-description-card" href="#">
+            <a className="card service-description-card" href="services.html">
               <h6 className="service-subtitle">
-                Disc 10%
+                10% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -201,7 +201,7 @@ export default function Home() {
             </h2>
             {" "}
             <p className="whychooseus-content-description animate-box animated animate__animated" data-animate="animate__fadeInLeft">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              We are committed to delivering the highest standards of beauty and wellness in a hygienic and relaxing atmosphere.
             </p>
             {" "}
             <div className="chooseus-container animate-box animated-delay-fast animate__animated" data-animate="animate__fadeInLeft">
@@ -215,7 +215,7 @@ export default function Home() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  Every tool is thoroughly sterilized, and we maintain strict cleanliness and hygiene protocols for your safety and comfort.
                 </p>
               </div>
             </div>
@@ -231,7 +231,7 @@ export default function Home() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  Our experienced beauticians and makeup artists ensure flawless results tailored to your unique skin and hair needs.
                 </p>
               </div>
             </div>
@@ -247,7 +247,7 @@ export default function Home() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  From traditional bridal grandeur to modern contemporary looks, we design bespoke makeovers that leave you feeling stunning.
                 </p>
               </div>
             </div>
@@ -264,7 +264,7 @@ export default function Home() {
             {" "}
             <div className="whychooseus-decoration-paint">
               <div className="image-container chooseus-image-paint">
-                <img alt="Choose Us Image" src="/assets/images/gambar-pemanis-e17643142116311111.png" />
+                <img alt="Choose Us Decorative Image" src="/assets/images/gambar-pemanis-e17643142116311111.png" />
               </div>
             </div>
           </div>
@@ -293,48 +293,48 @@ export default function Home() {
               <div className="testimonial-slider-wrapper" id="testimonial-slider">
                 <div className="testimonial-slide" data-index="0">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    Kalai did my bridal makeup and the look was absolutely breathtaking! Everyone at the wedding complimented the natural glow and hair styling.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Priya Sundaram
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Bridal Client
                     </p>
                   </div>
                 </div>
                 {" "}
                 <div className="testimonial-slide" data-index="1">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    The best salon experience in Vadavalli! Extremely clean, friendly staff, and the skin treatments made a visible difference.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Ananya Sharma
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Regular Client
                     </p>
                   </div>
                 </div>
                 {" "}
                 <div className="testimonial-slide" data-index="2">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    Professional, punctual, and highly skilled. The hair styling and makeup stayed fresh throughout our family event.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Kavitha R.
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Event Client
                     </p>
                   </div>
                 </div>
@@ -367,7 +367,7 @@ export default function Home() {
             <div className="pricing-feature animate-box animated animate__animated" data-animate="animate__fadeInUp">
               <div className="pricing-feature__value">
                 <span className="pricing-feature__number counter" data-target="12">
-                  00
+                  12
                 </span>
                 {" "}
                 <span className="pricing-feature__symbol">
@@ -381,7 +381,7 @@ export default function Home() {
                 </h3>
                 {" "}
                 <p className="pricing-feature__desc">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Over a decade of dedicated expertise delivering stunning transformations.
                 </p>
               </div>
             </div>
@@ -390,7 +390,7 @@ export default function Home() {
           <div className="pricing-content">
             <div className="sub-heading-line animate-box animated animate__animated" data-animate="animate__fadeInDown">
               <h6 className="sub-heading-text">
-                Treatment &amp; Prices
+                Treatments &amp; Services
               </h6>
             </div>
             {" "}
@@ -400,102 +400,62 @@ export default function Home() {
             {" "}
             <div className="pricing-list-container">
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
                     Face Treatments
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    There are many variations of passages
+                    Complete cleansing, exfoliation, and glow therapy
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Facial &amp; Message
+                    Facial &amp; Massage
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Are many variations of passages of available.
+                    Relaxing facial therapy with soothing massage
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
                     Hair Treatment
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Variations of passages of available.
+                    Nourishing spa, anti-dandruff, and hair repair treatments
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Manicure &amp; Padicure
+                    Manicure &amp; Pedicure
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Many variations of passages of available
+                    Deluxe nail grooming, massage, and polish
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Hand/nail Moisturizer
+                    Hand / Nail Moisturizer
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    There are many variations of passages of available
+                    Intense moisture therapy for soft and supple hands
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
             </div>
@@ -505,121 +465,19 @@ export default function Home() {
     </section>
     <section className="section banner-appointment-cta">
       <div className="hero-container">
-        <div className="appointment-cta-content">
-          <div className="request-loader-container animate-box animated animate__animated" data-animate="animate__zoomIn">
-            <button className="request-loader" data-video="#">
-              <i className="fa-solid fa-play" />
-            </button>
-          </div>
-          {" "}
-          <div className="appointment-cta-heading animate-box animated animate__animated" data-animate="animate__fadeInRight">
+        <div className="appointment-cta-content" style={{ justifyContent: "center", textAlign: "center", borderLeft: "none" }}>
+          <div className="appointment-cta-heading animate-box animated animate__animated" data-animate="animate__fadeInUp" style={{ width: "100%", alignItems: "center" }}>
             <div className="accent-line sub-heading-line sub-heading-w-25">
               <h6 className="sub-heading-text accent-color">
-                Discount 20%
+                Special Offer
               </h6>
             </div>
             {" "}
             <h2 className="accent-color">
               Bringing the joy of creativity!
-{" "}
               <br />
-              {" "}
-              Book An Appointment
+              Book An Appointment Today
             </h2>
-          </div>
-        </div>
-      </div>
-    </section>
-    <div className="section p-0">
-      <div className="modal-overlay" id="modal-overlay">
-        <span className="modal-close">
-          <i className="fa-solid fa-xmark" />
-        </span>
-        {" "}
-        <div className="video-modal">
-          <iframe allowFullScreen id="modal-video-frame" />
-        </div>
-      </div>
-    </div>
-    <section className="section-py-medium">
-      <div className="hero-container">
-        <div className="d-flex flex-column gspace-5">
-          <div className="d-flex flex-column gspace-2 justify-content-center align-items-center text-center">
-            <div className="sub-heading-double sub-heading-w-20 justify-content-center animate-box animated animate__animated" data-animate="animate__fadeInDown">
-              <h6 className="sub-heading-text">
-                Our Team
-              </h6>
-            </div>
-            {" "}
-            <h2 className="animate-box animated animate__animated" data-animate="animate__fadeInDown">
-              Professional cosmetologists
-            </h2>
-          </div>
-          {" "}
-          <div className="row row-cols-lg-4 row-cols-md-2 row-cols-1 grid-spacer-2">
-            <div className="col">
-              <div className="team-content-container team-founder-hair-style animate-box animated-delay-fast animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Tiana
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Founder &amp; Hair Styler
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-cofounder-fashion-style animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Sofia
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Co-Founder &amp; Fashion Styler
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-makeup-artist animate-box animated-delay-slow animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Efrina
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Makeup Artist
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-makeup-styler animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Nita
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Makeup Styler
-                  </p>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
@@ -656,7 +514,7 @@ export default function Home() {
           </h3>
           {" "}
           <p className="appointment-content-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Schedule your appointment today for bridal makeup, hair styling, or spa sessions. We look forward to pampering you!
           </p>
           {" "}
           <div className="alert form-message success hidden">
@@ -753,24 +611,24 @@ export default function Home() {
                     </div>
                     {" "}
                     <div className="dropdown-list dd-multi__list" id="treatment-list" role="listbox">
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-1" role="option">
-                        Treatment 1
+                      <div className="dropdown-option dd-multi__option" data-value="bridal-makeup" role="option">
+                        Bridal Makeup
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-2" role="option">
-                        Treatment 2
+                      <div className="dropdown-option dd-multi__option" data-value="hair-styling" role="option">
+                        Hair Styling &amp; Spa
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-3" role="option">
-                        Treatment 3
+                      <div className="dropdown-option dd-multi__option" data-value="facial-skincare" role="option">
+                        Facial &amp; Skincare
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-4" role="option">
-                        Treatment 4
+                      <div className="dropdown-option dd-multi__option" data-value="manicure-pedicure" role="option">
+                        Manicure &amp; Pedicure
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-5" role="option">
-                        Treatment 5
+                      <div className="dropdown-option dd-multi__option" data-value="fashion-makeup" role="option">
+                        Fashion &amp; Party Makeup
                       </div>
                     </div>
                     {" "}
@@ -815,7 +673,7 @@ export default function Home() {
             </h2>
             {" "}
             <p className="blog-section-description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              Stay inspired with expert beauty tips, skincare advice, and bridal makeup trends from our certified stylists.
             </p>
             {" "}
             <div>

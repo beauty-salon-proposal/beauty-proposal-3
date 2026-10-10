@@ -15,7 +15,7 @@ export default function SinglePost() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Read our in-depth guides on bridal beauty preparation, daily skincare routines, and timeless hairstyle trends.
           </p>
         </div>
       </div>
@@ -29,31 +29,31 @@ export default function SinglePost() {
             </div>
             {" "}
             <h2>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              The Ultimate Guide to Flawless Bridal Artistry &amp; Skincare
             </h2>
             {" "}
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              Your wedding day is one of the most memorable milestones in life, and preparing your skin for that natural, radiant glow requires thoughtful care and professional expertise. At Kalai's Beauty Salon &amp; Spa, we guide brides through curated routines that bring out their true elegance.
             </p>
             {" "}
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida erat mi, vel pretium justo consectetur vitae. Vivamus sed lacinia tellus, quis fringilla urna. Sed finibus dolor metus. Nam aliquet enim sit amet metus bibendum, non pulvinar enim iaculis. Quisque vulputate eget nibh non feugiat. Proin non faucibus ipsum. Quisque rhoncus orci quis nisl pretium, quis ullamcorper erat pharetra. Fusce sit amet rhoncus odio, id lobortis neque. Suspendisse sit amet augue massa.
-            </p>
-            {" "}
-            <h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            </h3>
-            {" "}
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida erat mi, vel pretium justo consectetur vitae. Vivamus sed lacinia tellus, quis fringilla urna. Sed finibus dolor metus. Nam aliquet enim sit amet metus bibendum, non pulvinar enim iaculis. Quisque vulputate eget nibh non feugiat. Proin non faucibus ipsum. Quisque rhoncus orci quis nisl pretium, quis ullamcorper erat pharetra. Fusce sit amet rhoncus odio, id lobortis neque. Suspendisse sit amet augue massa.
+              A successful bridal makeover starts weeks ahead of the big day with targeted skin hydration, gentle exfoliation, and personalized hair nourishment. Regular salon facial treatments combined with daily sun protection and deep conditioning build the perfect canvas for your bridal makeup.
             </p>
             {" "}
             <h3>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Essential Pre-Bridal Skincare Tips
             </h3>
             {" "}
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut gravida erat mi, vel pretium justo consectetur vitae. Vivamus sed lacinia tellus, quis fringilla urna. Sed finibus dolor metus. Nam aliquet enim sit amet metus bibendum, non pulvinar enim iaculis. Quisque vulputate eget nibh non feugiat. Proin non faucibus ipsum. Quisque rhoncus orci quis nisl pretium, quis ullamcorper erat pharetra. Fusce sit amet rhoncus odio, id lobortis neque. Suspendisse sit amet augue massa.
+              Hydration is the secret to lasting makeup. Drinking plenty of water, incorporating gentle hyaluronic serums, and scheduling monthly restorative facials help smooth texture and even out tone. Always avoid trying harsh unfamiliar chemicals immediately before your wedding events.
+            </p>
+            {" "}
+            <h3>
+              Choosing the Right Makeup &amp; Hair Styling
+            </h3>
+            {" "}
+            <p>
+              Whether you envision traditional South Indian bridal grandeur with fragrant jasmine and intricate hair accessories, or a contemporary soft-glam reception look, our artists personalize every shade and stroke to complement your bridal attire and lighting.
             </p>
           </div>
           {" "}
@@ -78,7 +78,7 @@ export default function SinglePost() {
                       </h4>
                       {" "}
                       <p className="blog-title-excerpt recent-post">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec…
+                        Discover daily makeup tips and skincare habits that keep you glowing effortlessly…
                       </p>
                     </div>
                   </div>
@@ -100,7 +100,7 @@ export default function SinglePost() {
                       </h4>
                       {" "}
                       <p className="blog-title-excerpt recent-post">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec…
+                        Simple steps and salon treatments to revitalize damaged hair and protect your skin…
                       </p>
                     </div>
                   </div>
@@ -118,11 +118,11 @@ export default function SinglePost() {
                   <div className="col">
                     <div className="d-flex flex-column gspace-1">
                       <h4 className="blog-title recent-post">
-                        Five Chilling Instances of Slips In Time
+                        The Secret to Long-Lasting Bridal Makeup
                       </h4>
                       {" "}
                       <p className="blog-title-excerpt recent-post">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec…
+                        Expert advice on primer, setting sprays, and smudge-proof beauty techniques…
                       </p>
                     </div>
                   </div>

@@ -8,7 +8,7 @@ export default function Header() {
         <div className="container-fluid">
           <div className="logo-container header-logo">
             <a className="navbar-brand" href="index.html">
-              <img alt="Kalai's Beauty Salon & Spa" className="img-fluid" src="/assets/images/Fabuluxlogocoklat.png" />
+              <img alt="Kalai's Beauty Salon & Spa" className="img-fluid" src="/assets/images/kalai-logo.png" style={{ maxHeight: "48px", width: "auto" }} />
             </a>
           </div>
           {" "}
@@ -47,13 +47,7 @@ export default function Header() {
                   <ul className="dropdown-menu">
                     <li>
                       <a className="dropdown-item" href="pricing.html">
-                        Pricing Plan
-                      </a>
-                    </li>
-                    {" "}
-                    <li>
-                      <a className="dropdown-item" href="team.html">
-                        Our Team
+                        Treatments &amp; Services
                       </a>
                     </li>
                     {" "}
@@ -66,12 +60,6 @@ export default function Header() {
                     <li>
                       <a className="dropdown-item" href="faq.html">
                         FAQs
-                      </a>
-                    </li>
-                    {" "}
-                    <li>
-                      <a className="dropdown-item" href="404_page.html">
-                        Error 404
                       </a>
                     </li>
                   </ul>
@@ -116,7 +104,7 @@ export default function Header() {
       <div className="sidebar">
         <div className="sidebar-header">
           <div className="logo">
-            <img alt="Kalai's Beauty Salon & Spa" className="logo" src="/assets/images/Fabuluxlogocoklat.png" />
+            <img alt="Kalai's Beauty Salon & Spa" className="logo" src="/assets/images/kalai-logo.png" style={{ maxHeight: "45px", width: "auto" }} />
           </div>
           {" "}
           <button className="close-btn-sidebar">
@@ -159,13 +147,7 @@ export default function Header() {
             <ul className="sidebar-dropdown-menu">
               <li>
                 <a href="pricing.html">
-                  Pricing Plan
-                </a>
-              </li>
-              {" "}
-              <li>
-                <a href="team.html">
-                  Our Team
+                  Treatments &amp; Services
                 </a>
               </li>
               {" "}
@@ -178,12 +160,6 @@ export default function Header() {
               <li>
                 <a href="faq.html">
                   FAQs
-                </a>
-              </li>
-              {" "}
-              <li>
-                <a href="404_page.html">
-                  Error 404
                 </a>
               </li>
             </ul>

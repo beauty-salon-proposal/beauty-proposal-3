@@ -15,7 +15,7 @@ export default function Services() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Discover our comprehensive suite of beauty, bridal makeup, hair care, and skincare services designed to elevate your personal style.
           </p>
         </div>
       </div>
@@ -24,7 +24,7 @@ export default function Services() {
       <div className="d-flex flex-column text-center align-items-center gspace-2">
         <div className="sub-heading-double sub-heading-w-20 justify-content-center animate-box animated animate__animated" data-animate="animate__fadeIn">
           <h6 className="sub-heading-text">
-            Get Beautifull With Us
+            Get Beautiful With Us
           </h6>
         </div>
         {" "}
@@ -33,7 +33,7 @@ export default function Services() {
         </h2>
         {" "}
         <p className="animate-box animated animate__animated" data-animate="animate__fadeInDown">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+          Explore our wide range of professional beauty services crafted to enhance your glow and elevate your confidence.
         </p>
         {" "}
         <div className="service-content-container">
@@ -42,7 +42,7 @@ export default function Services() {
             {" "}
             <a className="card service-description-card" href="#">
               <h6 className="service-subtitle">
-                Disc 15%
+                15% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -56,7 +56,7 @@ export default function Services() {
             {" "}
             <a className="card service-description-card" href="#">
               <h6 className="service-subtitle">
-                Disc 10%
+                10% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -70,7 +70,7 @@ export default function Services() {
             {" "}
             <a className="card service-description-card" href="#">
               <h6 className="service-subtitle">
-                Disc 20%
+                20% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -84,7 +84,7 @@ export default function Services() {
             {" "}
             <a className="card service-description-card" href="#">
               <h6 className="service-subtitle">
-                Disc 10%
+                10% Off
               </h6>
               {" "}
               <h3 className="service-title">
@@ -117,48 +117,48 @@ export default function Services() {
               <div className="testimonial-slider-wrapper" id="testimonial-slider">
                 <div className="testimonial-slide" data-index="0">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    Kalai did my bridal makeup and the look was absolutely breathtaking! Everyone at the wedding complimented the natural glow and hair styling.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Priya Sundaram
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Bridal Client
                     </p>
                   </div>
                 </div>
                 {" "}
                 <div className="testimonial-slide" data-index="1">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    The best salon experience in Vadavalli! Extremely clean, friendly staff, and the skin treatments made a visible difference.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Ananya Sharma
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Regular Client
                     </p>
                   </div>
                 </div>
                 {" "}
                 <div className="testimonial-slide" data-index="2">
                   <p className="testimonial-quote">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                    Professional, punctual, and highly skilled. The hair styling and makeup stayed fresh throughout our family event.
                   </p>
                   {" "}
                   <div className="d-flex flex-column align-items-center">
                     <h5 className="testimonial-name">
-                      Jhon Doe
+                      Kavitha R.
                     </h5>
                     {" "}
                     <p className="testimonial-designation">
-                      Designation
+                      Event Client
                     </p>
                   </div>
                 </div>
@@ -205,7 +205,7 @@ export default function Services() {
                 </h3>
                 {" "}
                 <p className="pricing-feature__desc">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Over a decade of dedicated expertise delivering stunning transformations.
                 </p>
               </div>
             </div>
@@ -214,7 +214,7 @@ export default function Services() {
           <div className="pricing-content">
             <div className="sub-heading-line animate-box animated animate__animated" data-animate="animate__fadeInDown">
               <h6 className="sub-heading-text">
-                Treatment &amp; Prices
+                Treatments &amp; Services
               </h6>
             </div>
             {" "}
@@ -224,102 +224,62 @@ export default function Services() {
             {" "}
             <div className="pricing-list-container">
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
                     Face Treatments
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    There are many variations of passages
+                    Complete cleansing, exfoliation, and glow therapy
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Facial &amp; Message
+                    Facial &amp; Massage
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Are many variations of passages of available.
+                    Relaxing facial therapy with soothing massage
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
                     Hair Treatment
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Variations of passages of available.
+                    Nourishing spa, anti-dandruff, and hair repair treatments
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Manicure &amp; Padicure
+                    Manicure &amp; Pedicure
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    Many variations of passages of available
+                    Deluxe nail grooming, massage, and polish
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
               {" "}
               <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="pricing-list__heading-container">
+                <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                   <h3>
-                    Hand/nail Moisturizer
+                    Hand / Nail Moisturizer
                   </h3>
                   {" "}
                   <p className="pricing-sub-heading">
-                    There are many variations of passages of available
+                    Intense moisture therapy for soft and supple hands
                   </p>
-                </div>
-                {" "}
-                <div className="pricing-list__price">
-                  <div className="pricing-list__line" />
-                  {" "}
-                  <h3>
-                    $50
-                  </h3>
                 </div>
               </div>
             </div>
@@ -359,7 +319,7 @@ export default function Services() {
           </h3>
           {" "}
           <p className="appointment-content-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Schedule your appointment today for bridal makeup, hair styling, or spa sessions. We look forward to pampering you!
           </p>
           {" "}
           <div className="alert form-message success hidden">
@@ -456,24 +416,24 @@ export default function Services() {
                     </div>
                     {" "}
                     <div className="dropdown-list dd-multi__list" id="treatment-list" role="listbox">
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-1" role="option">
-                        Treatment 1
+                      <div className="dropdown-option dd-multi__option" data-value="bridal-makeup" role="option">
+                        Bridal Makeup
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-2" role="option">
-                        Treatment 2
+                      <div className="dropdown-option dd-multi__option" data-value="hair-styling" role="option">
+                        Hair Styling &amp; Spa
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-3" role="option">
-                        Treatment 3
+                      <div className="dropdown-option dd-multi__option" data-value="facial-skincare" role="option">
+                        Facial &amp; Skincare
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-4" role="option">
-                        Treatment 4
+                      <div className="dropdown-option dd-multi__option" data-value="manicure-pedicure" role="option">
+                        Manicure &amp; Pedicure
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-5" role="option">
-                        Treatment 5
+                      <div className="dropdown-option dd-multi__option" data-value="fashion-makeup" role="option">
+                        Fashion &amp; Party Makeup
                       </div>
                     </div>
                     {" "}

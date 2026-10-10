@@ -15,7 +15,7 @@ export default function Faq() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Find answers to common questions about our salon services, bridal makeup bookings, and appointments.
           </p>
         </div>
       </div>

@@ -11,11 +11,11 @@ export default function Pricing() {
       <div className="hero-container">
         <div className="banner-inner-container">
           <h1 className="banner-inner-title">
-            Pricing Plan
+            Treatments &amp; Services
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Explore our complete range of bespoke bridal makeup, hair styling, skin treatments, and spa therapies.
           </p>
         </div>
       </div>
@@ -49,7 +49,7 @@ export default function Pricing() {
                 </h3>
                 {" "}
                 <p className="pricing-feature__desc">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Over a decade of dedicated expertise delivering stunning transformations.
                 </p>
               </div>
             </div>
@@ -59,108 +59,68 @@ export default function Pricing() {
             <div className="d-flex flex-column gspace-2">
               <div className="sub-heading-line left-only animate-box animated animate__animated" data-animate="animate__fadeIn">
                 <h3>
-                  Cosmetology
+                  Cosmetology &amp; Skincare
                 </h3>
               </div>
               {" "}
               <div className="pricing-list-container">
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
                       Face Treatments
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      There are many variations of passages
+                      Complete cleansing, exfoliation, and glow therapy
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Facial &amp; Message
+                      Facial &amp; Massage
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Are many variations of passages of available.
+                      Relaxing facial therapy with soothing massage
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
                       Hair Treatment
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Variations of passages of available.
+                      Nourishing spa, anti-dandruff, and hair repair treatments
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Manicure &amp; Padicure
+                      Manicure &amp; Pedicure
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Many variations of passages of available
+                      Deluxe nail grooming, massage, and polish
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Hand/nail Moisturizer
+                      Hand / Nail Moisturizer
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      There are many variations of passages of available
+                      Intense moisture therapy for soft and supple hands
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
               </div>
@@ -169,108 +129,68 @@ export default function Pricing() {
             <div className="d-flex flex-column gspace-2">
               <div className="sub-heading-line left-only animate-box animated animate__animated" data-animate="animate__fadeIn">
                 <h3>
-                  Hair Treatment
+                  Hair Styling &amp; Color
                 </h3>
               </div>
               {" "}
               <div className="pricing-list-container">
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
                       Signature Haircut
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      There are many variations of passages
+                      Customized cut and blow-dry by senior stylists
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Hair Color
+                      Hair Color &amp; Highlights
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Are many variations of passages of available.
+                      Global color, balayage, and ammonia-free shades
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Clipper Cut
+                      Precision Styling
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Variations of passages of available.
+                      Curling, straightening, and event hair setting
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
                       Full Root Touch-up
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      Many variations of passages of available
+                      Seamless grey coverage and color blending
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
                 {" "}
                 <div className="pricing-list animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                  <div className="pricing-list__heading-container">
+                  <div className="pricing-list__heading-container" style={{ width: "100%" }}>
                     <h3>
-                      Hair Treatment
+                      Deep Hair Spa
                     </h3>
                     {" "}
                     <p className="pricing-sub-heading">
-                      There are many variations of passages of available
+                      Keratin infusion and intensive scalp hydration
                     </p>
-                  </div>
-                  {" "}
-                  <div className="pricing-list__price">
-                    <div className="pricing-list__line" />
-                    {" "}
-                    <h3>
-                      $50
-                    </h3>
                   </div>
                 </div>
               </div>
@@ -311,7 +231,7 @@ export default function Pricing() {
           </h3>
           {" "}
           <p className="appointment-content-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Schedule your appointment today for bridal makeup, hair styling, or spa sessions. We look forward to pampering you!
           </p>
           {" "}
           <div className="alert form-message success hidden">
@@ -408,24 +328,24 @@ export default function Pricing() {
                     </div>
                     {" "}
                     <div className="dropdown-list dd-multi__list" id="treatment-list" role="listbox">
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-1" role="option">
-                        Treatment 1
+                      <div className="dropdown-option dd-multi__option" data-value="bridal-makeup" role="option">
+                        Bridal Makeup
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-2" role="option">
-                        Treatment 2
+                      <div className="dropdown-option dd-multi__option" data-value="hair-styling" role="option">
+                        Hair Styling &amp; Spa
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-3" role="option">
-                        Treatment 3
+                      <div className="dropdown-option dd-multi__option" data-value="facial-skincare" role="option">
+                        Facial &amp; Skincare
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-4" role="option">
-                        Treatment 4
+                      <div className="dropdown-option dd-multi__option" data-value="manicure-pedicure" role="option">
+                        Manicure &amp; Pedicure
                       </div>
                       {" "}
-                      <div className="dropdown-option dd-multi__option" data-value="treatment-5" role="option">
-                        Treatment 5
+                      <div className="dropdown-option dd-multi__option" data-value="fashion-makeup" role="option">
+                        Fashion &amp; Party Makeup
                       </div>
                     </div>
                     {" "}

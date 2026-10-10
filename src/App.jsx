@@ -1,6 +1,5 @@
 import { useEffect } from "react"
 import { Routes, Route, useLocation, useNavigate } from "react-router-dom"
-import Error404 from "./pages/Error404"
 import About from "./pages/About"
 import Blog from "./pages/Blog"
 import Contact from "./pages/Contact"
@@ -9,7 +8,6 @@ import Home from "./pages/Home"
 import Pricing from "./pages/Pricing"
 import Services from "./pages/Services"
 import SinglePost from "./pages/SinglePost"
-import Team from "./pages/Team"
 import useInitScripts from "./hooks/useInitScripts"
 import { PAGES } from "./data/manifest"
 
@@ -51,7 +49,6 @@ export default function App() {
       <ScrollAndTitle />
       <SpaLinks />
       <Routes>
-        <Route path="/404_page.html" element={<Error404 />} />
         <Route path="/about.html" element={<About />} />
         <Route path="/blog.html" element={<Blog />} />
         <Route path="/contact.html" element={<Contact />} />
@@ -60,7 +57,6 @@ export default function App() {
         <Route path="/pricing.html" element={<Pricing />} />
         <Route path="/services.html" element={<Services />} />
         <Route path="/single-post.html" element={<SinglePost />} />
-        <Route path="/team.html" element={<Team />} />
         <Route path="*" element={<Home />} />
       </Routes>
     </>

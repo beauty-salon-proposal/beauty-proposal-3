@@ -15,7 +15,7 @@ export default function Blog() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Explore our latest articles, beauty insights, and style recommendations curated by our team.
           </p>
         </div>
       </div>
@@ -54,7 +54,7 @@ export default function Blog() {
               </div>
               {" "}
               <h4 className="blog-title">
-                Unveiling Beauty: Your Guide to Radiant Hair, Skin, and Style
+                The Secret to Long-Lasting Bridal Makeup
               </h4>
             </a>
           </div>
@@ -62,11 +62,11 @@ export default function Blog() {
           <div className="col">
             <a className="card card-blog" href="single-post.html">
               <div className="image-container">
-                <img alt="Blog Image" src="/assets/images/servicesdailymakeup.jpg" />
+                <img alt="Blog Image" src="/assets/images/serviceshairstyle11.jpg" />
               </div>
               {" "}
               <h4 className="blog-title">
-                Chic &amp; Glam: Your Daily Dose of Beauty Inspiration
+                Hair Spa Rituals: Repair, Nourish &amp; Shine
               </h4>
             </a>
           </div>
@@ -74,11 +74,11 @@ export default function Blog() {
           <div className="col">
             <a className="card card-blog" href="single-post.html">
               <div className="image-container">
-                <img alt="Blog Image" src="/assets/images/Event-amkeupimg1223.jpg" />
+                <img alt="Blog Image" src="/assets/images/servicesmakeupfashiongoal.jpg" />
               </div>
               {" "}
               <h4 className="blog-title">
-                Unveiling Beauty: Your Guide to Radiant Hair, Skin, and Style
+                Glowing Skin Secrets: Facials for Every Skin Type
               </h4>
             </a>
           </div>
@@ -86,11 +86,11 @@ export default function Blog() {
           <div className="col">
             <a className="card card-blog" href="single-post.html">
               <div className="image-container">
-                <img alt="Blog Image" src="/assets/images/about123.jpg" />
+                <img alt="Blog Image" src="/assets/images/Dailymakeupimg.jpg" />
               </div>
               {" "}
               <h4 className="blog-title">
-                Unveiling Beauty: Your Guide to Radiant Hair, Skin, and Style
+                Party-Perfect Makeup: From Day Chic to Evening Glam
               </h4>
             </a>
           </div>

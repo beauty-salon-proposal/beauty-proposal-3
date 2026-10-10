@@ -1,13 +1,4 @@
 export const PAGES = {
-  "/404_page.html": {
-    "title": "Error 404 - Kalai's Beauty Salon & Spa",
-    "initScripts": [
-      "/assets/js/script.js",
-      "/assets/js/submit-form.js",
-      "/assets/js/video-script.js"
-    ],
-    "inlineScripts": []
-  },
   "/about.html": {
     "title": "About Us - Kalai's Beauty Salon & Spa",
     "initScripts": [
@@ -54,7 +45,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/pricing.html": {
-    "title": "Pricing Plan - Kalai's Beauty Salon & Spa",
+    "title": "Treatments & Services - Kalai's Beauty Salon & Spa",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -73,15 +64,6 @@ export const PAGES = {
   },
   "/single-post.html": {
     "title": "Single Post - Kalai's Beauty Salon & Spa",
-    "initScripts": [
-      "/assets/js/script.js",
-      "/assets/js/submit-form.js",
-      "/assets/js/video-script.js"
-    ],
-    "inlineScripts": []
-  },
-  "/team.html": {
-    "title": "Our Team - Kalai's Beauty Salon & Spa",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",

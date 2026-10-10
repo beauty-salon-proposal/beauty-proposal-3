@@ -15,7 +15,7 @@ export default function About() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            Welcome to Kalai's Beauty Salon &amp; Spa in Vadavalli, Coimbatore — your premier destination for bridal makeup, hair styling, and rejuvenating skincare.
           </p>
         </div>
       </div>
@@ -45,7 +45,7 @@ export default function About() {
             </h2>
             {" "}
             <p className="about-benefit__content-description animate-box animated animate__animated" data-animate="animate__fadeInUp">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              At Kalai's Beauty Salon &amp; Spa, we are passionate about enhancing your natural beauty. From bespoke bridal artistry to relaxing everyday salon care, our focus is always on your comfort, radiance, and satisfaction.
             </p>
             {" "}
             <div className="about-benefits__list-container">
@@ -59,7 +59,7 @@ export default function About() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  Our certified beauty professionals bring years of hands-on experience in specialized bridal makeup, trendsetting hair designs, and skincare therapies.
                 </p>
               </div>
             </div>
@@ -75,7 +75,7 @@ export default function About() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  We only use high-grade, dermatologist-tested beauty and cosmetic products that are gentle, nourishing, and completely safe for all skin types.
                 </p>
               </div>
             </div>
@@ -91,7 +91,7 @@ export default function About() {
                 </h3>
                 {" "}
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                  Premium beauty and spa experiences at clear, budget-friendly rates with personalized packages for brides and bridal parties.
                 </p>
               </div>
             </div>
@@ -107,42 +107,23 @@ export default function About() {
     </section>
     <section className="section banner-appointment-cta">
       <div className="hero-container">
-        <div className="appointment-cta-content">
-          <div className="request-loader-container animate-box animated animate__animated" data-animate="animate__zoomIn">
-            <button className="request-loader" data-video="#">
-              <i className="fa-solid fa-play" />
-            </button>
-          </div>
-          {" "}
-          <div className="appointment-cta-heading animate-box animated animate__animated" data-animate="animate__fadeInRight">
+        <div className="appointment-cta-content" style={{ justifyContent: "center", textAlign: "center", borderLeft: "none" }}>
+          <div className="appointment-cta-heading animate-box animated animate__animated" data-animate="animate__fadeInUp" style={{ width: "100%", alignItems: "center" }}>
             <div className="accent-line sub-heading-line sub-heading-w-25">
               <h6 className="sub-heading-text accent-color">
-                Discount 20%
+                Special Offer
               </h6>
             </div>
             {" "}
             <h2 className="accent-color">
               Bringing the joy of creativity!
-{" "}
               <br />
-              {" "}
-              Book An Appointment
+              Book An Appointment Today
             </h2>
           </div>
         </div>
       </div>
     </section>
-    <div className="section p-0">
-      <div className="modal-overlay" id="modal-overlay">
-        <span className="modal-close">
-          <i className="fa-solid fa-xmark" />
-        </span>
-        {" "}
-        <div className="video-modal">
-          <iframe allowFullScreen id="modal-video-frame" />
-        </div>
-      </div>
-    </div>
     <div className="section about-experience">
       <div className="hero-container">
         <div className="about-experience__main-content">
@@ -158,7 +139,7 @@ export default function About() {
             </h2>
             {" "}
             <p className="about-experience__content-description animate-box animated animate__animated" data-animate="animate__fadeInDown">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              Escape into a world of pampering and luxury. Whether you need a refreshing facial, an exquisite haircut, or complete bridal grooming, we ensure every moment is relaxing.
             </p>
             {" "}
             <div className="image-container">
@@ -172,7 +153,7 @@ export default function About() {
             </div>
             {" "}
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              Every treatment is personalized to complement your features and accentuate your natural glow with attention to hygiene and modern styling.
             </p>
             {" "}
             <div className="row row-cols-md-3 row-cols-1 grid-spacer-2 w-100">
@@ -183,7 +164,7 @@ export default function About() {
                   </li>
                   {" "}
                   <li>
-                    Acupunture
+                    Acupuncture
                   </li>
                   {" "}
                   <li>
@@ -199,19 +180,19 @@ export default function About() {
               <div className="col">
                 <ul className="check-list">
                   <li>
-                    Body Treatments
+                    Bridal Makeup
                   </li>
                   {" "}
                   <li>
-                    Acupunture
+                    Pedicure
                   </li>
                   {" "}
                   <li>
-                    Manicure
+                    Facial Spa
                   </li>
                   {" "}
                   <li>
-                    Hair Treatments
+                    Hair Coloring
                   </li>
                 </ul>
               </div>
@@ -219,19 +200,19 @@ export default function About() {
               <div className="col">
                 <ul className="check-list">
                   <li>
-                    Body Treatments
+                    Skin Cleansing
                   </li>
                   {" "}
                   <li>
-                    Acupunture
+                    Nail Art
                   </li>
                   {" "}
                   <li>
-                    Manicure
+                    Hair Spa
                   </li>
                   {" "}
                   <li>
-                    Hair Treatments
+                    Grooming
                   </li>
                 </ul>
               </div>
@@ -240,89 +221,6 @@ export default function About() {
         </div>
       </div>
     </div>
-    <section className="section-py-medium">
-      <div className="hero-container">
-        <div className="d-flex flex-column gspace-5">
-          <div className="d-flex flex-column gspace-2 justify-content-center align-items-center text-center">
-            <div className="sub-heading-double sub-heading-w-20 justify-content-center animate-box animated animate__animated" data-animate="animate__fadeInDown">
-              <h6 className="sub-heading-text">
-                Our Team
-              </h6>
-            </div>
-            {" "}
-            <h2 className="animate-box animated animate__animated" data-animate="animate__fadeInDown">
-              Professional cosmetologists
-            </h2>
-          </div>
-          {" "}
-          <div className="row row-cols-lg-4 row-cols-md-2 row-cols-1 grid-spacer-2">
-            <div className="col">
-              <div className="team-content-container team-founder-hair-style animate-box animated-delay-fast animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Tiana
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Founder &amp; Hair Styler
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-cofounder-fashion-style animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Sofia
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Co-Founder &amp; Fashion Styler
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-makeup-artist animate-box animated-delay-slow animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Efrina
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Makeup Artist
-                  </p>
-                </div>
-              </div>
-            </div>
-            {" "}
-            <div className="col">
-              <div className="team-content-container team-makeup-styler animate-box animated animate__animated" data-animate="animate__fadeInUp">
-                <div className="team-name-container">
-                  <div className="content-spacer" />
-                  {" "}
-                  <h3 className="team-name">
-                    Nita
-                  </h3>
-                  {" "}
-                  <p className="team-details">
-                    Makeup Styler
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     <div className="section-py-medium">
       <div className="hero-container">
         <div className="blog-section-container">
@@ -338,7 +236,7 @@ export default function About() {
             </h2>
             {" "}
             <p className="blog-section-description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+              Explore our expert beauty advice, skincare guides, and hair care tips written by professional makeup artists.
             </p>
             {" "}
             <div>

@@ -12,7 +12,7 @@ export default function Home() {
         <div className="banner-home-content">
           <div className="accent-line sub-heading-line animate-box animated animate__animated" data-animate="animate__fadeInDown">
             <h6 className="sub-heading-text accent-color">
-              Welcome to Kalai's Beauty Salon &amp; Spa
+              Welcome to Kalai's Beauty &amp; Academy
             </h6>
           </div>
           {" "}
@@ -67,7 +67,7 @@ export default function Home() {
             </h2>
             {" "}
             <p className="about-intro__content-description animate-box animated animate__animated" data-animate="animate__fadeInUp">
-              At Kalai's Beauty Salon &amp; Spa, we bring out your natural elegance with meticulous care, modern techniques, and personalized styling for every occasion.
+              At Kalai's Beauty &amp; Academy, we bring out your natural elegance with meticulous care, modern techniques, and personalized styling for every occasion.
             </p>
             {" "}
             <div className="animate-box animated animate__animated" data-animate="animate__fadeInUp">
@@ -366,8 +366,8 @@ export default function Home() {
             {" "}
             <div className="pricing-feature animate-box animated animate__animated" data-animate="animate__fadeInUp">
               <div className="pricing-feature__value">
-                <span className="pricing-feature__number counter" data-target="12">
-                  12
+                <span className="pricing-feature__number counter" data-target="20">
+                  20
                 </span>
                 {" "}
                 <span className="pricing-feature__symbol">

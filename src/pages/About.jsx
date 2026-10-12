@@ -15,7 +15,7 @@ export default function About() {
           </h1>
           {" "}
           <p className="banner-inner-excerpt animate-box animated animate__animated" data-animate="animate__fadeInUp">
-            Welcome to Kalai's Beauty Salon &amp; Spa in Vadavalli, Coimbatore — your premier destination for bridal makeup, hair styling, and rejuvenating skincare.
+            Welcome to Kalai's Beauty &amp; Academy in Vadavalli, Coimbatore — your premier destination for bridal makeup, hair styling, and rejuvenating skincare.
           </p>
         </div>
       </div>
@@ -45,7 +45,7 @@ export default function About() {
             </h2>
             {" "}
             <p className="about-benefit__content-description animate-box animated animate__animated" data-animate="animate__fadeInUp">
-              At Kalai's Beauty Salon &amp; Spa, we are passionate about enhancing your natural beauty. From bespoke bridal artistry to relaxing everyday salon care, our focus is always on your comfort, radiance, and satisfaction.
+              At Kalai's Beauty &amp; Academy, we are passionate about enhancing your natural beauty. From bespoke bridal artistry to relaxing everyday salon care, our focus is always on your comfort, radiance, and satisfaction.
             </p>
             {" "}
             <div className="about-benefits__list-container">

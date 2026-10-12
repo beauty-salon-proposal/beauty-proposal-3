@@ -1,6 +1,6 @@
 export const PAGES = {
   "/about.html": {
-    "title": "About Us - Kalai's Beauty Salon & Spa",
+    "title": "About Us - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -9,7 +9,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/blog.html": {
-    "title": "Archive - Kalai's Beauty Salon & Spa",
+    "title": "Archive - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -18,7 +18,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/contact.html": {
-    "title": "Contact Us - Kalai's Beauty Salon & Spa",
+    "title": "Contact Us - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -27,7 +27,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/faq.html": {
-    "title": "FAQ - Kalai's Beauty Salon & Spa",
+    "title": "FAQ - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -36,7 +36,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/": {
-    "title": "Home - Kalai's Beauty Salon & Spa",
+    "title": "Home - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -45,7 +45,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/pricing.html": {
-    "title": "Treatments & Services - Kalai's Beauty Salon & Spa",
+    "title": "Treatments & Services - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -54,7 +54,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/services.html": {
-    "title": "Services - Kalai's Beauty Salon & Spa",
+    "title": "Services - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",
@@ -63,7 +63,7 @@ export const PAGES = {
     "inlineScripts": []
   },
   "/single-post.html": {
-    "title": "Single Post - Kalai's Beauty Salon & Spa",
+    "title": "Single Post - Kalai's Beauty & Academy",
     "initScripts": [
       "/assets/js/script.js",
       "/assets/js/submit-form.js",

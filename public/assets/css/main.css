@@ -607,6 +607,80 @@ a,
         opacity: 1;
     }
 
+/* 6.2.3b. Treatment dropdown — polished card UI */
+.form .dropdown-container.dd-multi {
+    position: relative;
+}
+
+.form .dd-multi__select {
+    background-color: transparent;
+    border-bottom: 1px solid var(--primary);
+    border-radius: 0;
+    cursor: pointer;
+    min-height: 52px;
+    padding: 12px 4px 10px 0;
+}
+
+.form .dd-multi__select i {
+    color: var(--primary);
+    flex-shrink: 0;
+    transition: transform 0.25s ease;
+}
+
+.form .dd-multi.active .dd-multi__select i {
+    transform: rotate(180deg);
+}
+
+.form .dd-multi__list {
+    background-color: #FFFFFF;
+    border: 1px solid var(--primary);
+    border-radius: 10px;
+    box-shadow: 0 12px 32px rgba(102, 58, 48, 0.22);
+    left: 0;
+    margin-top: 8px;
+    max-height: 230px;
+    overflow-y: auto;
+    padding: 6px;
+    position: absolute;
+    right: 0;
+    top: 100%;
+    z-index: 60;
+}
+
+.form .dd-multi__option {
+    align-items: center;
+    border: none;
+    border-radius: 7px;
+    color: var(--primary);
+    display: flex;
+    font-size: 15px;
+    font-weight: 500;
+    justify-content: space-between;
+    line-height: 1.4em;
+    padding: 11px 12px;
+    transition: background-color 0.18s ease, color 0.18s ease;
+}
+
+.form .dd-multi__option + .dd-multi__option {
+    margin-top: 2px;
+}
+
+.form .dd-multi__option:hover {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.form .dd-multi__option.active {
+    background-color: var(--primary);
+    color: #FFFFFF;
+}
+
+.form .dd-multi__option.active::after {
+    content: '\2713';
+    font-size: 14px;
+    font-weight: 700;
+}
+
 /* 6.2.4. Alerts & Validation */
 .alert {
     align-items: center;
@@ -2238,7 +2312,7 @@ a,
 }
 
 .footer-content-container .image-container {
-    max-width: 380px;
+    max-width: 460px;
     width: 100%;
     margin: 0 auto;
     display: flex;
@@ -2248,10 +2322,11 @@ a,
 .footer-content-container .image-container img {
     height: auto;
     width: auto;
-    max-height: 110px;
+    max-height: 140px;
     max-width: 100%;
     display: block;
     object-fit: contain;
+    filter: brightness(0) invert(1);
 }
 
 .footer-description {

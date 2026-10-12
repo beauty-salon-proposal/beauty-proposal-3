@@ -33,7 +33,7 @@ export default function SinglePost() {
             </h2>
             {" "}
             <p>
-              Your wedding day is one of the most memorable milestones in life, and preparing your skin for that natural, radiant glow requires thoughtful care and professional expertise. At Kalai's Beauty Salon &amp; Spa, we guide brides through curated routines that bring out their true elegance.
+              Your wedding day is one of the most memorable milestones in life, and preparing your skin for that natural, radiant glow requires thoughtful care and professional expertise. At Kalai's Beauty &amp; Academy, we guide brides through curated routines that bring out their true elegance.
             </p>
             {" "}
             <p>

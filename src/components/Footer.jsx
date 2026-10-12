@@ -8,13 +8,15 @@ export default function Footer() {
         <div className="footer-content-banner">
           <div className="hero-container">
             <div className="footer-content-container">
-              <div className="image-container footer-logo-container" style={{ maxWidth: "380px", width: "100%", margin: "0 auto", display: "flex", justifyContent: "center" }}>
-                <img alt="Kalai's Beauty Salon & Spa" src="/assets/images/kalai-logo-white.png" className="img-fluid" style={{ maxHeight: "110px", width: "auto", maxWidth: "100%", height: "auto", display: "block", objectFit: "contain" }} />
+              <div className="image-container footer-logo-container" style={{ maxWidth: "460px", width: "100%", margin: "0 auto", display: "flex", justifyContent: "center" }}>
+                <img alt="Kalai's Beauty & Academy" src="/assets/images/kalai-logo.png" className="img-fluid" style={{ maxHeight: "140px", width: "auto", maxWidth: "100%", height: "auto", display: "block", objectFit: "contain", filter: "brightness(0) invert(1)" }} />
               </div>
               {" "}
               <p className="footer-description">
-                Kalai's Beauty Salon &amp; Spa — Beauty salon · Bridal makeup · Hair · Skincare.<br />
-                Vadavalli, Coimbatore, Tamil Nadu, India.
+                Kalai's Beauty &amp; Academy — Beauty salon · Bridal makeup · Hair · Skincare.<br />
+                <a href="https://maps.app.goo.gl/aAU34gPxxkepfLog7" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "underline" }}>
+                  Seendur Complex, Linganur Road, Linganoor, Vadavalli, Coimbatore, Tamil Nadu 641041.
+                </a>
               </p>
               {" "}
               <div className="d-flex flex-row gspace-0 align-items-center justify-content-center flex-wrap">
@@ -42,12 +44,16 @@ export default function Footer() {
               <div className="footer-divider" />
               {" "}
               <div className="footer-social-container">
-                <a className="footer-icon" href="#">
+                <a className="footer-icon" href="https://wa.me/919842023382" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
                   <i className="fa-brands fa-whatsapp" />
                 </a>
                 {" "}
-                <a className="footer-icon" href="#">
+                <a className="footer-icon" href="https://www.instagram.com/kalai_makeupartistry/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                   <i className="fa-brands fa-instagram" />
+                </a>
+                {" "}
+                <a className="footer-icon" href="https://maps.app.goo.gl/aAU34gPxxkepfLog7" target="_blank" rel="noopener noreferrer" aria-label="Our Location on Google Maps">
+                  <i className="fa-solid fa-location-dot" />
                 </a>
               </div>
             </div>
@@ -57,7 +63,7 @@ export default function Footer() {
         <div className="hero-container">
           <div className="footer-copyright-container">
             <span className="copyright-text">
-              Copyright © 2026. Kalai's Beauty Salon &amp; Spa. All rights reserved
+              Copyright © 2026. Kalai's Beauty &amp; Academy. All rights reserved
             </span>
             {" "}
             <div className="legalink-container">

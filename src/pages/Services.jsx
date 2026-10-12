@@ -190,8 +190,8 @@ export default function Services() {
             {" "}
             <div className="pricing-feature animate-box animated animate__animated" data-animate="animate__fadeInUp">
               <div className="pricing-feature__value">
-                <span className="pricing-feature__number counter" data-target="12">
-                  12
+                <span className="pricing-feature__number counter" data-target="20">
+                  20
                 </span>
                 {" "}
                 <span className="pricing-feature__symbol">

@@ -8,7 +8,7 @@ export default function Header() {
         <div className="container-fluid">
           <div className="logo-container header-logo">
             <a className="navbar-brand" href="index.html">
-              <img alt="Kalai's Beauty Salon & Spa" className="img-fluid" src="/assets/images/kalai-logo.png" style={{ maxHeight: "48px", width: "auto" }} />
+              <img alt="Kalai's Beauty & Academy" className="img-fluid" src="/assets/images/kalai-logo.png" style={{ maxHeight: "64px", width: "auto" }} />
             </a>
           </div>
           {" "}
@@ -104,7 +104,7 @@ export default function Header() {
       <div className="sidebar">
         <div className="sidebar-header">
           <div className="logo">
-            <img alt="Kalai's Beauty Salon & Spa" className="logo" src="/assets/images/kalai-logo.png" style={{ maxHeight: "45px", width: "auto" }} />
+            <img alt="Kalai's Beauty & Academy" className="logo" src="/assets/images/kalai-logo.png" style={{ maxHeight: "58px", width: "auto" }} />
           </div>
           {" "}
           <button className="close-btn-sidebar">

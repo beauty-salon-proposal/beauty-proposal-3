@@ -15,14 +15,14 @@ export default function Contact() {
           </h2>
           <div className="contact-info-summary" style={{ marginBottom: "25px", textAlign: "center" }}>
             <p style={{ fontSize: "1.2rem", fontWeight: "600", marginBottom: "6px", color: "var(--primary-color, #81442d)" }}>
-              Kalai's Beauty Salon &amp; Spa
+              Kalai's Beauty &amp; Academy
             </p>
             <p style={{ margin: "4px 0", color: "#555" }}>
               Beauty salon · Bridal makeup · Hair · Skincare
             </p>
             <p style={{ margin: "4px 0", color: "#555" }}>
               <i className="fa-solid fa-location-dot" style={{ marginRight: "8px" }} />
-              Vadavalli, Coimbatore, Tamil Nadu, India
+              Seendur Complex, Linganur Road, Linganoor, Vadavalli, Coimbatore, Tamil Nadu 641041
             </p>
             <p style={{ margin: "4px 0", color: "#555" }}>
               <i className="fa-solid fa-phone" style={{ marginRight: "8px" }} />

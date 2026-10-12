@@ -13,28 +13,33 @@ $(function () {
    TESTIMONIAL SLIDER
 ========================== */
 function initTestimonialSlider() {
-    const $slider = $("#testimonial-slider");
-    const $slides = $(".testimonial-slide");
-    const totalSlides = $slides.length;
     let currentIndex = 0;
 
+    function slideCount() {
+        return $(".testimonial-slide").length || 1;
+    }
+
     function updateSlider() {
+        const $slider = $("#testimonial-slider");
+        const $slides = $(".testimonial-slide");
+        const total = slideCount();
+        currentIndex = ((currentIndex % total) + total) % total;
         $slider.css("transform", `translateX(-${currentIndex * 100}%)`);
         $slides.removeClass("active").eq(currentIndex).addClass("active");
         $(".testimonial-nav-btn").removeClass("active").eq(currentIndex).addClass("active");
     }
 
-    $("#testimonial-wrapper").on("click", "#next", function () {
-        currentIndex = (currentIndex + 1) % totalSlides;
+    $(document).off("click.testimonial", "#next").on("click.testimonial", "#next", function () {
+        currentIndex = (currentIndex + 1) % slideCount();
         updateSlider();
     });
 
-    $("#testimonial-wrapper").on("click", "#prev", function () {
-        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+    $(document).off("click.testimonial", "#prev").on("click.testimonial", "#prev", function () {
+        currentIndex = (currentIndex - 1 + slideCount()) % slideCount();
         updateSlider();
     });
 
-    $("#testimonial-wrapper").on("click", ".testimonial-nav-btn", function () {
+    $(document).off("click.testimonial", ".testimonial-nav-btn").on("click.testimonial", ".testimonial-nav-btn", function () {
         currentIndex = $(this).index();
         updateSlider();
     });
